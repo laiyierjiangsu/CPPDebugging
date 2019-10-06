@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# Some defined folders
+googletest
+*.vs
